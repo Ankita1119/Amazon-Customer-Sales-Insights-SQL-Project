@@ -69,13 +69,13 @@ This project provides valuable insights into key performance metrics such as sal
 
 ## 🚀 Conclusion & Future Scope
 
-### Key Takeaways:
+### **Key Takeaways:**
 
-✅ The top-selling products belong to high-demand categories.
-✅ Repeat customers contribute significantly to overall sales.
-✅ The majority of orders are delivered on time, with scope for improving delayed shipments.
-✅ Digital payment methods dominate over cash transactions.
-✅ Return rates require monitoring to minimize losses and enhance customer satisfaction.
+✅ The top-selling products belong to high-demand categories.  
+✅ Repeat customers contribute significantly to overall sales.  
+✅ The majority of orders are delivered on time, with scope for improving delayed shipments.  
+✅ Digital payment methods dominate over cash transactions.  
+✅ Return rates require monitoring to minimize losses and enhance customer satisfaction.  
 
 
 
