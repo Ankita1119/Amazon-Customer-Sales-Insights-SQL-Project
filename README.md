@@ -7,13 +7,13 @@ The Amazon Customer & Sales Insights SQL Project is designed to analyze the end-
 This project provides valuable insights into key performance metrics such as sales trends, revenue analysis, top-performing products, customer behavior, and shipping performance.
 
 ## 📂 Database Schema
-**The database consists of 9 interrelated tables, ensuring a complete eCommerce transaction cycle:**
+### **The database consists of 9 interrelated tables, ensuring a complete eCommerce transaction cycle:**
 
-Customers (Customer_ID, First_name, Last_name, State)
+**Customers** (Customer_ID, First_name, Last_name, State)
 
-Products (Product_ID, Product_name, Price, COGS, Category_ID)
+**Products** (Product_ID, Product_name, Price, COGS, Category_ID)
 
-Order_Items (Order_Item_ID, Order_ID, Product_ID, Quantity, Price_per_Unit)
+**Order_Items** (Order_Item_ID, Order_ID, Product_ID, Quantity, Price_per_Unit)
 
 Orders (Order_ID, Order_Date, Customer_ID, Order_Status, Seller_ID)
 
