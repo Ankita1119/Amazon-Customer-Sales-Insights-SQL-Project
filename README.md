@@ -77,6 +77,11 @@ This project provides valuable insights into key performance metrics such as sal
 #### ✅ **Digital payment methods** dominate over cash transactions.  
 #### ✅ **Return rates** require monitoring to minimize losses and enhance customer satisfaction.  
 
+## **Future Enhancements:**
+
+- 📌 Implement **machine learning models** to predict future sales trends.  
+- 📌 Use **Power BI dashboards** to visualize real-time data insights.  
+- 📌 Optimize **shipping & delivery performance** using predictive analytics.  
 
 
 
