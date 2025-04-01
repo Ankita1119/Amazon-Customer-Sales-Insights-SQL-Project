@@ -28,7 +28,9 @@ This project provides valuable insights into key performance metrics such as sal
 **Payments** (Payment_ID, Order_ID, Payment_Date, Payment_Mode, Payment_Status)
 
 ## 📊 Key Metrics & Insights
-Based on the SQL queries performed, the following key insights were derived:
+#### Based on the SQL queries performed, the following key insights were derived:
+
+### 1️⃣ Sales & Revenue Analysis
 
 
 
