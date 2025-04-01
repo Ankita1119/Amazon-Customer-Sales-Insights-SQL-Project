@@ -1,5 +1,7 @@
 # Amazon Customer & Sales Insights SQL Project
 
+![Amazon Logo]
+
 ## 📌 Project Overview
 
 The Amazon Customer & Sales Insights SQL Project is designed to analyze the end-to-end customer shopping experience on Amazon. It covers customer purchases, product details, order transactions, shipping status, seller information, and payments. The project is built using MySQL and contains a fully correlated database schema that reflects real-world eCommerce operations.
