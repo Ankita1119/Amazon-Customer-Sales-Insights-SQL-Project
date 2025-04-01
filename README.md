@@ -79,9 +79,13 @@ This project provides valuable insights into key performance metrics such as sal
 
 ## **Future Enhancements:**
 
-- 📌 Implement **machine learning models** to predict future sales trends.  
-- 📌 Use **Power BI dashboards** to visualize real-time data insights.  
-- 📌 Optimize **shipping & delivery performance** using predictive analytics.  
+#### 📌 Implement **machine learning models** to predict future sales trends.  
+#### 📌 Use **Power BI dashboards** to visualize real-time data insights.  
+#### 📌 Optimize **shipping & delivery performance** using predictive analytics.  
+
+## 🔗 SQL File
+
+**The SQL queries used for analysis are provided separately in the project repository. Please refer to the SQL file for detailed query execution.**
 
 
 
