@@ -1,6 +1,6 @@
 # Amazon Customer & Sales Insights SQL Project
 
-![Amazon Logo]
+![Image](https://github.com/user-attachments/assets/8be37752-183c-4e06-9a81-fb6dcf7a8ea4)
 
 ## 📌 Project Overview
 
