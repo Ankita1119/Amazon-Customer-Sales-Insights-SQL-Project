@@ -31,13 +31,13 @@ This project provides valuable insights into key performance metrics such as sal
 #### Based on the SQL queries performed, the following key insights were derived:
 
 ### 1️⃣ Sales & Revenue Analysis
-Top-Selling Products: Identified the top 10 products generating the highest sales revenue.
+- Top-Selling Products: Identified the top 10 products generating the highest sales revenue.
 
-Revenue by Category: Analyzed total revenue contribution from each product category.
+- Revenue by Category: Analyzed total revenue contribution from each product category.
 
-Monthly Sales Trend: Tracked sales trends over the past year to identify peak seasons.
+- Monthly Sales Trend: Tracked sales trends over the past year to identify peak seasons.
 
-Average Order Value (AOV): Measured the average amount spent per order by customers.
+- Average Order Value (AOV): Measured the average amount spent per order by customers.
 
 
 
