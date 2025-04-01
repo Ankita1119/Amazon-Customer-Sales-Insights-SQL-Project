@@ -1,3 +1,4 @@
-# Amazon-Sales-Analysis-SQL-Project
+# Amazon Customer & Sales Insights SQL Project
 
 ## 📌 Project Overview
+
