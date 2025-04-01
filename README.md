@@ -7,7 +7,7 @@ The Amazon Customer & Sales Insights SQL Project is designed to analyze the end-
 This project provides valuable insights into key performance metrics such as sales trends, revenue analysis, top-performing products, customer behavior, and shipping performance.
 
 ## 📂 Database Schema
-### **The database consists of 9 interrelated tables, ensuring a complete eCommerce transaction cycle:**
+#### **The database consists of 9 interrelated tables, ensuring a complete eCommerce transaction cycle:**
 
 **Customers** (Customer_ID, First_name, Last_name, State)
 
@@ -15,19 +15,20 @@ This project provides valuable insights into key performance metrics such as sal
 
 **Order_Items** (Order_Item_ID, Order_ID, Product_ID, Quantity, Price_per_Unit)
 
-Orders (Order_ID, Order_Date, Customer_ID, Order_Status, Seller_ID)
+**Orders** (Order_ID, Order_Date, Customer_ID, Order_Status, Seller_ID)
 
-Category (Category_ID, Category_Name)
+**Category** (Category_ID, Category_Name)
 
-Sellers (Seller_ID, Seller_Name, Origin)
+**Sellers** (Seller_ID, Seller_Name, Origin)
 
-Inventory (Inventory_ID, Product_ID, Last_Stock_Date, Warehouse_ID)
+**Inventory** (Inventory_ID, Product_ID, Last_Stock_Date, Warehouse_ID)
 
-Shipping (Shipping_ID, Order_ID, Delivery_Status, Shipping_Date, Return_Date, Shipping_Providers)
+**Shipping** (Shipping_ID, Order_ID, Delivery_Status, Shipping_Date, Return_Date, Shipping_Providers)
 
-Payments (Payment_ID, Order_ID, Payment_Date, Payment_Mode, Payment_Status)
+**Payments** (Payment_ID, Order_ID, Payment_Date, Payment_Mode, Payment_Status)
 
 ## 📊 Key Metrics & Insights
+Based on the SQL queries performed, the following key insights were derived:
 
 
 
