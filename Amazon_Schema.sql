@@ -92,5 +92,5 @@ create table inventory
 	constraint inventory_fk_products foreign key (product_id) references products(product_id)
 );
 
--- end of schema
+
 
